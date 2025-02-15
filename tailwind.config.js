@@ -53,7 +53,7 @@ module.exports = {
           foreground: "hsl(var(--card-foreground))",
         },
         brand: {
-          DEFAULT: "#fe5b24",
+          DEFAULT: "#ff5a23",
           light: "#ffc10a", 
         },
       },

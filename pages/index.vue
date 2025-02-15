@@ -1,11 +1,15 @@
 
 
 <template>
-    <div class="flex w-full flex-col bg-banner pb-16">
+    <div class="flex w-full flex-col bg-banner">
        <Header />
        <HeroSection />
        <Why />
+       <Products />
+       <NeedHelp />
+       <Testimonial />
     </div>
-    <Products />
+    <Footer />
+   
     
 </template>

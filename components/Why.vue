@@ -1,7 +1,7 @@
 <script setup lang="ts">
 </script>
 <template>
-    <div class=" bg-white p-4 md:p-8 lg:p-12 xl:container shadow-lg rounded-lg">
+    <div class=" bg-white p-4 md:p-8 lg:p-12 container mx-auto shadow-lg rounded-lg ">
         <div class="text-center">
             <h2 class="text-xl md:text-2xl lg:text-4xl font-bold mb-4 text-black">Why Corelto?</h2>
             <p class="text-lg font-normal text-gray-800 max-w-xl text-center m-auto mb-12">Grow Your Business, Powerful
